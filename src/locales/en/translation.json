@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": "Consulting, education and design",
+  "about": {
+    "description": "Legal and natural persons involved in the production and distribution of food, as well as providers of public drinking water supply, must ensure continuous training for employees who come into contact with food in their work. Internal control must be established on the basis of the HACCP system, which enables the identification of microbiological, chemical, and physical risk factors that may pose a threat to health.\n\nWe offer professional support in establishing and maintaining the HACCP system, training employees in the field of food safety, and providing comprehensive solutions for the planning and implementation of HACCP systems in the food industry.\n\nAre you a food safety supervisor or a responsible person for food safety in a public institution, food processing company, or tourism and hospitality establishment? Contact us, and together we will ensure the safety of food in your organization!",
+    "moto": "Together to safe food!",
+    "partners": {
+      "title": "Our Partners"
+    }
+  },
+  "products": {
+    "consulting": {
+      "title": "Consulting",
+      "description": "Professional consulting for the establishment and maintenance of the HACCP system and other safety standards."
+    },
+    "education": {
+      "title": "Education",
+      "description": "Educational programs and workshops for training employees in food safety."
+    },
+    "design": {
+      "title": "Design",
+      "description": "Comprehensive solutions for planning and implementing HACCP systems in the food industry."
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "home": "Domov",
+    "products": "Storitve",
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "hero": "Svetovanje, izobraževanje in projektiranje",
+  "about": {
+    "description": "Pravne in fizične osebe, ki se ukvarjajo s proizvodnjo in prometom živil in javno oskrbo s pitno vodo, morajo hkrati skrbeti za stalno usposabljanje delavcev, ki prihajajo pri delu v stik z živili. Notranji nadzor pa mora biti vzpostavljen na osnovah sistema HACCP, ki omogoča prepoznavanje mikrobioloških, kemičnih in fizikalnih dejavnikov tveganj, ki lahko predstavljajo tveganje za zdravje.\n\nNudimo vam strokovno pomoč pri vzpostavitvi in vzdrževanju sistema HACCP, izobraževanja zaposlenih na področju varnosti hrane ter celovite rešitve za načrtovanje in implementacijo sistemov HACCP v prehrambeni industriji. \n\nSte skrbnik varnosti hrane ali odgovorna oseba za varnost hrane v javni ustanovi, živilskem predelovalnem podjetju ali turističnemu in gostinskemu obratu? Stopite v stik z nami in skupaj bomo poskrbeli za varnost vaše hrane!",
+    "moto": "Skupaj do varne hrane!",
+    "partners": {
+      "title": "Naši partnerji"
+    }
+  },
+  "products": {
+    "consulting": {
+      "title": "Svetovanje in zakonodaja varne hrane",
+      "description": "Strokovno svetujemo o evropskih in nacionalnih zakonodajnih zahtevah s področja varnosti živil. Pomagamo pri implementaciji regulativ, spremljanju sprememb ter zagotavljanju skladnosti vašega poslovanja."
+    },
+    "haccp": {
+      "title": "Sistemi HACCP - implementacija, nadzor in izobraževanje",
+      "description": "Ponujamo celovito podporo pri vzpostavitvi in izvajanju sistema HACCP: notranje nadzore, pripravo dokumentacije HACCP, usposabljanja zaposlenih, vodenje higienskih programov, validacije ter svetovanje za zagotavljanje skladnosti z zakonodajo."
+    },
+    "allergen_tests": {
+      "title": "Hitri testi za določanje alergenov",
+      "description": "Ponujamo hitre teste za preverjanje prisotnosti alergenov (gluten) v živilih in proizvodnih okoljih – za hitro in zanesljivo interno kontrolo."
+    },
+    "certification": {
+      "title": "Podpora pri pridobivanju certifikatov",
+      "description": "Sodelujemo pri pripravah na certifikate, kot so Prečrtan žitni klas – brez glutena, IFS Global Markets Food, IFS, BRC ali ISO 14001. Nudimo analizo stanja, pripravo dokumentacije in spremljanje do uspešne certificiranja."
+    },
+    "declaration": {
+      "title": "Deklaracije, specifikacije in tehnološka dokumentacija",
+      "description": "Za podjetja izdelamo deklaracije živil, tehnične specifikacije, tehnološke postopke, analize tveganja ter izvedemo validacije procesov."
+    },
+    "labeling": {
+      "title": "Označevanje alergenov in hranilnih vrednosti",
+      "description": "Svetujemo in izdelamo pravilno označevanje alergenov, izračune hranilnih vrednosti ter zdravstvene in prehranske trditve skladno z zakonodajo."
+    },
+    "sampling": {
+      "title": "Vzorčenja in laboratorijska analiza",
+      "description": "Izvajamo: \n- vzorčenje živil z mikrobiološkim mnenjem,\n- vzorčenje pitne vode (Legionella),\n- odvzem brisov s strokovnim mnenjem,\n- vzorčenje živil za kemijske analize (PAOH, aflatoksini, akrilamid, pesticidi, alergeni)."
+    },
+    "inspection_support": {
+      "title": "Podpora pri inšpekcijskih pregledih",
+      "description": "Pripravimo celotno dokumentacijo za inšpekcijski nadzor ter nudimo strokovno prisotnost in podporo na samem pregledu, vključno s pomočjo pri odpravi ugotovljenih pomanjkljivosti."
+    },
+    "hygiene_sanitation": {
+      "title": "Higiensko-sanitarni red in preventivni ukrepi",
+      "description": "Svetujemo in pomagamo pri vzpostavitvi higiensko-sanitarnega reda ter izvajamo preventivne ukrepe, kot so čiščenje mrežic, pregled deratizacijskih boksov in druge aktivnosti za zagotavljanje varnega delovnega okolja."
+    },
+    "mentoring": {
+      "title": "Mentorstvo dijakom in študentom",
+      "description": "Mentoriramo dijake (pek, slaščičar, mesar, oljar, živilski tehnik) in študente živilstva."
+    },
+    "training": {
+      "title": "Usposabljanje skladno z EU uredbami",
+      "description": "Izvajamo usposabljanja skladno z Uredbo EU o higieni živil ter nacionalno zakonodajo o zdravstveni ustreznosti živil in materialov v stiku z živili."
+    }
+  }
+}
