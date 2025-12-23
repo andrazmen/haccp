@@ -1,5 +1,16 @@
 import { nanoid } from "nanoid";
-//import { FaHtml5, FaJs, FaReact } from "react-icons/fa";
+import consultingImg from "./assets/consulting.svg";
+import haccpImg from "./assets/haccp.svg";
+import allergensImg from "./assets/labeling.svg";
+import declarationImg from "./assets/declaration.svg";
+import samplingImg from "./assets/sampling.svg";
+import inspectionImg from "./assets/inspection.svg";
+import hygieneImg from "./assets/hygiene.svg";
+import mentoringImg from "./assets/mentoring.svg";
+import trainingImg from "./assets/certification.svg";
+import vfImg from "./assets/vf.png";
+import nlzohImg from "./assets/nlzoh.svg";
+import eurofinsImg from "./assets/eurofins.png";
 
 export const links = [
   { id: nanoid(), href: "#home", key: "nav.home" },
@@ -11,87 +22,71 @@ export const links = [
 export const products = [
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: consultingImg,
     title: "products.consulting.title",
     text: "products.consulting.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: haccpImg,
     title: "products.haccp.title",
     text: "products.haccp.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-    title: "products.allergen_tests.title",
-    text: "products.allergen_tests.description",
+    img: allergensImg,
+    title: "products.allergens.title",
+    text: "products.allergens.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-    title: "products.certification.title",
-    text: "products.certification.description",
-  },
-  {
-    id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: declarationImg,
     title: "products.declaration.title",
     text: "products.declaration.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-    title: "products.labeling.title",
-    text: "products.labeling.description",
-  },
-  {
-    id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: samplingImg,
     title: "products.sampling.title",
     text: "products.sampling.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: inspectionImg,
     title: "products.inspection_support.title",
     text: "products.inspection_support.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: hygieneImg,
     title: "products.hygiene_sanitation.title",
     text: "products.hygiene_sanitation.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-    title: "products.mentoring.title",
-    text: "products.mentoring.description",
+    img: trainingImg,
+    title: "products.training.title",
+    text: "products.training.description",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-    title: "products.training.title",
-    text: "products.training.description",
+    img: mentoringImg,
+    title: "products.mentoring.title",
+    text: "products.mentoring.description",
   },
 ];
 
 export const partners = [
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: vfImg,
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: nlzohImg,
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-  },
-  {
-    id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: eurofinsImg,
   },
 ];

@@ -1,4 +1,3 @@
-//import aboutSvg from "../assets/about.svg";
 import { FaBuilding } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
 import { FaPhoneAlt } from "react-icons/fa";
@@ -18,7 +17,7 @@ const Contact = () => {
             <div className="flex items-start gap-4">
               <FaBuilding className="text-2xl text-slate-700" />
               <p className="text-slate-600 leading-relaxed">
-                Inštitut za varno hrano, svetovanje, izobraževanje in
+                Inštitut za varno hrano HACCP, svetovanje, izobraževanje in
                 projektiranje, Anica Kropec s.p.
               </p>
             </div>
@@ -40,7 +39,7 @@ const Contact = () => {
             </div>
           </div>
         </article>
-        <div className="hidden md:block">
+        <div className="block md:block">
           <iframe
             className="w-full h-80 rounded-xl border border-slate-200"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2752.897551977875!2d15.612873676691105!3d46.37142057245189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47658759d3f4544d%3A0xeb87280918a9437c!2s%C4%8Cre%C5%A1njevec%2059%2C%202310%20Slovenska%20Bistrica!5e0!3m2!1ssl!2ssi!4v1765284996966!5m2!1ssl!2ssi"

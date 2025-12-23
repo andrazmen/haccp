@@ -22,21 +22,13 @@
       "title": "Sistemi HACCP - implementacija, nadzor in izobraževanje",
       "description": "Ponujamo celovito podporo pri vzpostavitvi in izvajanju sistema HACCP: notranje nadzore, pripravo dokumentacije HACCP, usposabljanja zaposlenih, vodenje higienskih programov, validacije ter svetovanje za zagotavljanje skladnosti z zakonodajo."
     },
-    "allergen_tests": {
-      "title": "Hitri testi za določanje alergenov",
-      "description": "Ponujamo hitre teste za preverjanje prisotnosti alergenov (gluten) v živilih in proizvodnih okoljih – za hitro in zanesljivo interno kontrolo."
-    },
-    "certification": {
-      "title": "Podpora pri pridobivanju certifikatov",
-      "description": "Sodelujemo pri pripravah na certifikate, kot so Prečrtan žitni klas – brez glutena, IFS Global Markets Food, IFS, BRC ali ISO 14001. Nudimo analizo stanja, pripravo dokumentacije in spremljanje do uspešne certificiranja."
+    "allergens": {
+      "title": "Testiranje in označevanje alergenov ter hranilnih vrednosti",
+      "description": "Ponujamo hitre teste za preverjanje prisotnosti alergenov (npr. gluten) v živilih in proizvodnih okoljih ter strokovno svetovanje pri pravilnem označevanju alergenov, izračunu hranilnih vrednosti ter oblikovanju zdravstvenih in prehranskih trditev v skladu z veljavno zakonodajo."
     },
     "declaration": {
       "title": "Deklaracije, specifikacije in tehnološka dokumentacija",
       "description": "Za podjetja izdelamo deklaracije živil, tehnične specifikacije, tehnološke postopke, analize tveganja ter izvedemo validacije procesov."
-    },
-    "labeling": {
-      "title": "Označevanje alergenov in hranilnih vrednosti",
-      "description": "Svetujemo in izdelamo pravilno označevanje alergenov, izračune hranilnih vrednosti ter zdravstvene in prehranske trditve skladno z zakonodajo."
     },
     "sampling": {
       "title": "Vzorčenja in laboratorijska analiza",
@@ -55,8 +47,8 @@
       "description": "Mentoriramo dijake (pek, slaščičar, mesar, oljar, živilski tehnik) in študente živilstva."
     },
     "training": {
-      "title": "Usposabljanje skladno z EU uredbami",
-      "description": "Izvajamo usposabljanja skladno z Uredbo EU o higieni živil ter nacionalno zakonodajo o zdravstveni ustreznosti živil in materialov v stiku z živili."
+      "title": "Podpora pri certificiranju in usposabljanju skladno z zakonodajo",
+      "description": "Nudimo strokovno podporo pri pripravi na pridobivanje certifikatov, kot so Prečrtan žitni klas – brez glutena, IFS Global Markets Food, IFS, BRC in ISO 14001, vključno z analizo stanja, pripravo dokumentacije ter spremljanjem do uspešne certifikacije. Hkrati izvajamo usposabljanja skladno z EU uredbami o higieni živil ter nacionalno zakonodajo o zdravstveni ustreznosti živil in materialov v stiku z živili."
     }
   }
 }

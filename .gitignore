@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 info/
+src/assets/haccp-logo/logo2.svg
+src/assets/haccp-logo/logo3.svg
+src/assets/haccp-logo/logo4.png
+src/assets/haccp-logo/logo4.svg
+src/assets/haccp-logo/old/

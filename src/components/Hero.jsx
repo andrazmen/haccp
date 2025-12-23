@@ -1,6 +1,4 @@
 import heroImg from "../assets/hero.svg";
-import { FaAt } from "react-icons/fa";
-import { IoIosCall } from "react-icons/io";
 import { FaPhoneAlt } from "react-icons/fa";
 import { FaEnvelope } from "react-icons/fa";
 import { useTranslation } from "react-i18next";
@@ -22,10 +20,10 @@ const Hero = () => {
           </p>
           <div className="flex gap-x-4 mt-4">
             <a href="#contact">
-              <FaPhoneAlt className="text-xl text-slate-500 hover:text-black duration-300" />
+              <FaPhoneAlt className="text-xl text-slate-500 hover:text-[#00A3D8] duration-300" />
             </a>
             <a href="#contact">
-              <FaEnvelope className="text-xl text-slate-500 hover:text-black duration-300" />
+              <FaEnvelope className="text-xl text-slate-500 hover:text-[#00A3D8] duration-300" />
             </a>
           </div>
         </article>

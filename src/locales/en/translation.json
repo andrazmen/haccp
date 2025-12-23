@@ -15,16 +15,40 @@
   },
   "products": {
     "consulting": {
-      "title": "Consulting",
-      "description": "Professional consulting for the establishment and maintenance of the HACCP system and other safety standards."
+      "title": "Food Safety Consulting and Legislation",
+      "description": "We provide expert advice on European and national legislative requirements in the field of food safety. We assist with regulatory implementation, monitoring changes, and ensuring your business remains compliant."
     },
-    "education": {
-      "title": "Education",
-      "description": "Educational programs and workshops for training employees in food safety."
+    "haccp": {
+      "title": "HACCP Systems – Implementation, Monitoring, and Training",
+      "description": "We offer comprehensive support in establishing and operating HACCP systems: internal audits, preparation of HACCP documentation, employee training, management of hygiene programs, validations, and consultancy to ensure legal compliance."
     },
-    "design": {
-      "title": "Design",
-      "description": "Comprehensive solutions for planning and implementing HACCP systems in the food industry."
+    "allergens": {
+      "title": "Allergen and Nutritional Value Testing and Labeling",
+      "description": "We offer rapid testing to detect allergens (e.g., gluten) in food products and production environments, along with expert guidance on proper allergen labeling, nutritional value calculation, and formulation of health and nutrition claims in compliance with current legislation."
+    },
+    "declaration": {
+      "title": "Declarations, Specifications, and Technological Documentation",
+      "description": "We prepare food declarations, technical specifications, technological procedures, risk analyses, and conduct process validations for businesses."
+    },
+    "sampling": {
+      "title": "Sampling and Laboratory Analysis",
+      "description": "We perform:\n- Food sampling with microbiological assessment,\n- Drinking water sampling (Legionella),\n- Swab sampling with expert evaluation,\n- Food sampling for chemical analyses (PAOH, aflatoxins, acrylamide, pesticides, allergens)."
+    },
+    "inspection_support": {
+      "title": "Support for Inspection Audits",
+      "description": "We prepare all documentation required for inspection audits and provide expert presence and support during the inspection, including assistance in addressing any identified non-compliances."
+    },
+    "hygiene_sanitation": {
+      "title": "Hygiene and Sanitation Regulations and Preventive Measures",
+      "description": "We provide guidance and support in establishing hygiene and sanitation protocols, and implement preventive measures such as cleaning screens, inspecting pest control boxes, and other activities to ensure a safe working environment."
+    },
+    "mentoring": {
+      "title": "Mentoring for High School and University Students",
+      "description": "We provide mentorship to high school students (bakers, pastry chefs, butchers, oil producers, food technicians) and university students in food science."
+    },
+    "training": {
+      "title": "Support for Certification and Training in Compliance with Legislation",
+      "description": "We provide expert support in preparing for certifications such as Prečrtan žitni klas – brez glutena, IFS Global Markets Food, IFS, BRC, and ISO 14001, including status analysis, documentation preparation, and guidance through to successful certification. We also conduct training in accordance with EU food hygiene regulations and national legislation on the safety of food and food-contact materials."
     }
   }
 }

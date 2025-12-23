@@ -28,7 +28,7 @@ const LanguageSelector = () => {
         onClick={() => setOpen((prev) => !prev)}
         className="flex items-center gap-2 px-2 py-1"
       >
-        <FaGlobe className="text-l text-slate-500 hover:text-black duration-300" />
+        <FaGlobe className="text-l text-slate-500 hover:text-[#00A3D8] duration-300" />
       </button>
 
       {open && (
@@ -44,30 +44,6 @@ const LanguageSelector = () => {
             className="w-full text-left px-2 py-1 hover:bg-slate-100"
           >
             🇬🇧 English
-          </button>
-          <button
-            onClick={() => changeLanguage("en")}
-            className="w-full text-left px-2 py-1 hover:bg-slate-100"
-          >
-            🇭🇷 Hrvatski
-          </button>
-          <button
-            onClick={() => changeLanguage("en")}
-            className="w-full text-left px-2 py-1 hover:bg-slate-100"
-          >
-            🇷🇸 Српски
-          </button>
-          <button
-            onClick={() => changeLanguage("en")}
-            className="w-full text-left px-2 py-1 hover:bg-slate-100"
-          >
-            🇧🇦 Bosanski
-          </button>
-          <button
-            onClick={() => changeLanguage("en")}
-            className="w-full text-left px-2 py-1 hover:bg-slate-100"
-          >
-            🇦🇱 Shqip
           </button>
         </div>
       )}
