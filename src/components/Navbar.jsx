@@ -1,7 +1,7 @@
 import { links } from "../data";
 import LanguageSelector from "./LanguageSelector";
 import { useTranslation } from "react-i18next";
-import logoImg from "../assets/haccp-logo/logo-horizontal-raw.svg";
+import logoImg from "../assets/haccp-logo/logo4.png";
 
 const Navbar = () => {
   const { t } = useTranslation();
